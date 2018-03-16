@@ -1,4 +1,4 @@
-# puertaconsensorarduinouno
+#Alarma de puerta Con Arduino
 Desarrollo de un sensor de puerta con reed switch. 
 
 El objetivo de la practica es crear una alarma para puerta con un sensor Reed Switch, Resistencia, Led, Cables de conexion y lo más importante es una placa de arduino UNO. 
