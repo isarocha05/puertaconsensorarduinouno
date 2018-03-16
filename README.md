@@ -30,7 +30,7 @@ Continuamos con el led, tomaremos un cable de conexion lo conectaremos con la pa
 
 Por último tomaremos dos cables de conexion y uno lo conectaremos a GND y otro a 5V. Los conectaremos respectivamente en la protoboar, GND irá en tierra (Parte azul de la protoboard) y 5V en corriente (parte roja de la protoboard). 
 
-Hasta aquí hemos concluido la parte física del circuito, el código de la practica se encuentra aquí mismo en formato .ino para que puedas ejecutarlo en tu máquina sin problemas. 
+Hasta aquí hemos concluido la parte física del circuito, el código de la practica se encuentra aquí mismo en formato .ino para que puedas ejecutarlo en tu máquina sin problemas.
 
 
 
